@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-"""CARLA Simülasyonunda dinamik trafik oluşturma için bir script."""
-
 import glob
 import os
 import sys
